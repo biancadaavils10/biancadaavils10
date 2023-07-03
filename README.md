@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
+  
+meu nome e bianca 
 
-<!--
-**biancadaavils10/biancadaavils10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-estou estudando no alura 
+-estou me deselvonvendo na linguagem JavaScript
+-utilizo esse espaço para a minha organização e compartilhamento ds meus projetos desenvolvidos 
 
-Here are some ideas to get you started:
+## você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+biancasilva@.com
+
+@biancasila
+
+![](https://media.tenor.com/QbZHVztrmxUAAAAC/turniphead-howls-moving-castle.gif)
